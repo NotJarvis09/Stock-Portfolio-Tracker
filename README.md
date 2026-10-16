@@ -1,4 +1,4 @@
-# Stock Portfolio Tracker 📈
+# Stock Portfolio Tracker 📈 
 
 A command-line stock portfolio tracker built in Python that fetches real-time market data using `yfinance` and displays portfolio performance in a clean, formatted table using `tabulate`.
 
